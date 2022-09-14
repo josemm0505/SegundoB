@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\obj\Debug\BLLSegundoB.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\obj\Debug\BLLSegundoB.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\bin\Debug\BLLSegundoB.dll
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\bin\Debug\BLLSegundoB.pdb
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\obj\Debug\BLLSegundoB.dll
+C:\Users\USER\source\repos\JoseMejia\BLLSegundoB\obj\Debug\BLLSegundoB.pdb
